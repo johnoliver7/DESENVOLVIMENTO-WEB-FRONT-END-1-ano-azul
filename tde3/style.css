@@ -1,0 +1,45 @@
+body {
+	background-image: url("dark-light-relaxing.jpg"); 
+	margin-right: 70px;
+	margin-left: 100px;	
+}
+h1 {
+ color: #ffffff;
+ font-size: 40px;
+ background-color: #B9B9B9;
+ background-position: 50% 25%;
+ text-transform: uppercase;
+ font-family: arial;
+ text-align: center;
+ } 
+ h2 {
+ color: #ffffff;
+ text-decoration: underline;
+ } 
+ h3 {
+ color: #ffffff;
+ text-decoration: underline;
+ } 
+ p {
+ color: #ffffff;
+ } 
+a:link {
+ color: #B9B9B9;
+ }
+a:visited {
+ color: #A8FCED;
+ } 
+a:hover {
+ color: #468284;
+ font-style: italic;
+ }
+ div {
+	 color: #ffffff;
+ }
+ footer {
+ }
+ aside {
+ border-width: thick;
+ border-style: ridge;
+ border-color: #468284;
+ }
